@@ -1,0 +1,28 @@
+{"titulo": "Perú: ¿año récord de incendios?",
+ "escenas": [
+  {"frase": "¿Es dos mil veintiséis un año récord de incendios en el Perú? Lo medí con focos de calor satelitales hasta el veinte de octubre.",
+   "cifra": "20 oct 2026",
+   "etiqueta": "Fecha de corte de los datos"},
+  {"frase": "En todo el país, no: dos mil veintiséis está en el puesto doce de quince, por debajo del promedio histórico.",
+   "cifra": "12 de 15",
+   "etiqueta": "Puesto nacional de 2026 en focos"},
+  {"frase": "Pero Arequipa y Lima sí baten su récord. Arequipa tiene treinta y cuatro por ciento más focos que su máximo anterior.",
+   "cifra": "+34 %",
+   "etiqueta": "Arequipa sobre su récord previo (2013)"},
+  {"frase": "En octubre el fuego se disparó: en veinte días hubo doce mil novecientos cincuenta y tres focos, el récord de la serie.",
+   "cifra": "12 953",
+   "etiqueta": "Focos del 1 al 20 de octubre"},
+  {"frase": "Nueve departamentos andinos marcan su octubre más intenso. El récord llegó tarde y en la sierra, no en la Amazonía.",
+   "cifra": "9",
+   "etiqueta": "Departamentos con récord de octubre"},
+  {"frase": "Por eso, las alertas deberían mirarse por departamento, no con un umbral nacional. Mira el tablero completo: el enlace está en mi perfil.",
+   "cifra": "",
+   "etiqueta": "Mira el tablero: enlace en mi perfil"}
+ ],
+ "hashtags": ["IncendiosForestales", "Perú", "DatosAbiertos", "CienciaDeDatos", "Arequipa"],
+ "posts": {
+  "linkedin": "¿Es 2026 un año récord de incendios en el Perú? Comparé los focos de calor del sensor VIIRS (Suomi-NPP) del 1 de enero al 20 de octubre de 2026 con la misma ventana de 2012 a 2025, departamento por departamento.\n\nA nivel nacional, no: 50 996 focos, 0,81 veces el promedio y el puesto 12 de 15. Pero Arequipa (+34 % sobre su récord previo) y Lima (+32 %) sí baten su máximo, y los primeros 20 días de octubre suman 12 953 focos, los más intensos de toda la serie.\n\nEl récord es tardío y está concentrado en la sierra, no en la Amazonía: las alertas deberían evaluarse por departamento. La voz de este video fue generada con IA a partir de mi propia voz.",
+  "x": "¿2026, año récord de incendios en el Perú? En el país, no: puesto 12 de 15. Pero Arequipa (+34 %) y Lima (+32 %) baten su récord, y octubre suma 12 953 focos en 20 días, el máximo de la serie. Voz generada con IA a partir de mi voz.",
+  "facebook": "¿Es 2026 un año récord de incendios en el Perú? Analicé los focos de calor detectados por satélite hasta el 20 de octubre.\n\nEn todo el país, la respuesta es no. Pero Arequipa y Lima superan su máximo histórico, y en octubre el fuego se disparó en nueve departamentos andinos. Mira el tablero completo: el enlace está en mi perfil.\n\nCuéntame en los comentarios: ¿cómo se vive la temporada de incendios en tu región?\n\nLa voz de este video fue generada con IA a partir de mi propia voz."
+ }
+}

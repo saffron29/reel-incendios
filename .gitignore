@@ -1,0 +1,10 @@
+.venv/
+.venv-llm/
+fuentes/
+__pycache__/
+# Grabaciones de voz: nunca se suben
+mi_voz*
+*.m4a
+*.ogg
+*.opus
+*.wav
